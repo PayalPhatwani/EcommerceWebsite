@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\ecommerce(new)\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1770690529.index
+\Ecommerceproject\src\main\java
+C:\ecommerce(new)\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1628667826.index
+\com\src\main\java
+C:\ecommerce(new)\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2729426658.index
+\Ecommerceproject\src\main\java
+C:\ecommerce(new)\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3703551421.index
+\com\src\main\resources

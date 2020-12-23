@@ -1,0 +1,12 @@
+
+Oct 25, 2020 14:08:14.872 NEW SESSION
+Oct 25, 2020 14:08:14.872 [1025/140814.868:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Oct 25, 2020 15:09:31.483 [496:3392:1025/150931.482:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 25, 2020 15:24:47.533 [496:3392:1025/152447.531:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 25, 2020 16:55:35.145 [496:3392:1025/165535.143:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 25, 2020 16:58:22.735 [496:3392:1025/165822.734:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 25, 2020 18:48:15.382 [496:3392:1025/184815.381:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 25, 2020 19:42:48.489 [496:3392:1025/194248.488:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 25, 2020 20:19:30.842 [496:3392:1025/201930.198:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 25, 2020 21:07:50.596 [496:3392:1025/210750.596:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 25, 2020 21:51:28.76 [496:3392:1025/215128.075:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106

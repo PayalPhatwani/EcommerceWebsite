@@ -1,0 +1,21 @@
+.custom-bg{
+	background-color: #212121 !important;
+}
+
+.discount-label{
+	font-size: 10px !important;
+	font-style: italic !important;
+}
+
+.originalPrice {
+	text-decoration: line-through !important;
+}
+
+.admin{
+	background-color: white;
+}
+
+.admin .card:hover{
+	background: #e2e2e2;
+	cursor:pointer;
+}
